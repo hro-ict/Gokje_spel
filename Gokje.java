@@ -1,5 +1,5 @@
 
-//Auteur: Yasar Unlu (0996815)
+//Auteur: Yasar Unlu
 
 package com.company;
 import javax.swing.*;
